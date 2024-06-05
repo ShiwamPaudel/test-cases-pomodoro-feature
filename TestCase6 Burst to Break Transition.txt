@@ -1,0 +1,10 @@
+Description: Verify the transition from burst to break.
+
+Preconditions: User is logged in and burst has started.
+
+Steps:
+Start the timer.
+Wait until the burst ends.
+
+Expected Results:
+Timer switches to a 5-minute break, and a notification "The break has begun. Please stop working and go have fun!" is displayed.

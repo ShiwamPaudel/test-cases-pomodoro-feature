@@ -1,0 +1,10 @@
+Description: Verify the notification when a burst starts.
+
+Preconditions: User is logged in.
+
+Steps:
+Navigate to the timer page.
+Click the "Start" button.
+
+Expected Results:
+A notification "It's burst time. Stay focused!" is displayed.

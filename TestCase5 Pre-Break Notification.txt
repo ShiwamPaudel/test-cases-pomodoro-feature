@@ -1,0 +1,10 @@
+Description: Verify the notification 30 seconds before the burst ends.
+
+Preconditions: User is logged in and burst has started.
+
+Steps:
+Start the timer.
+Wait until 30 seconds before the burst ends.
+
+Expected Results:
+A notification "Your break begins in 30 seconds. Wrap up!" is displayed.
