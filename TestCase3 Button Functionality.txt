@@ -1,0 +1,12 @@
+Description: Verify that the Start, Stop, and Reset buttons function correctly.
+
+Preconditions: User is logged in.
+
+Steps:
+Navigate to the timer page.
+Click "Start" and observe the timer.
+Click "Stop" and verify the timer stops.
+Click "Reset" and verify the timer resets to 25 minutes.
+
+Expected Results:
+Timer starts, stops, and resets correctly.

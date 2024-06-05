@@ -1,0 +1,10 @@
+Description: Verify that the burst length is set to 25 minutes by default.
+
+Preconditions: User is logged in and has not altered default settings.
+
+Steps:
+Navigate to the timer page.
+Click the "Start" button.
+
+Expected Results:
+The timer shows 25 minutes countdown.

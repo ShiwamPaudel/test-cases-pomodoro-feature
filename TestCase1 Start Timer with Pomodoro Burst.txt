@@ -1,0 +1,10 @@
+Description: Verify that starting the timer initiates the first Pomodoro burst automatically.
+
+Preconditions: User is logged in.
+
+Steps:
+Navigate to the timer page.
+Click the "Start" button.
+
+Expected Results:
+The timer starts a 25-minute burst, and a notification "It's burst time. Stay focused!" is displayed.
