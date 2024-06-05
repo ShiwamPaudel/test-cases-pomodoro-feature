@@ -1,0 +1,10 @@
+Description: Verify the transition from break to the next Pomodoro burst.
+
+Preconditions: User is logged in, burst and break have completed.
+
+Steps:
+Start the timer.
+Wait until the break ends.
+
+Expected Results:
+Timer switches back to 25 minutes for the next Pomodoro burst, and the user is moved to the Pomodoro tab with the break counter not visible.

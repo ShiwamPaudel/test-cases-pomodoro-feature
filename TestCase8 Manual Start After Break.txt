@@ -1,0 +1,11 @@
+Description: Verify that the second burst does not start automatically after a break and requires user intervention.
+
+Preconditions: User is logged in, burst and break have completed.
+
+Steps:
+Start the timer.
+Wait until the break ends.
+Verify that the second burst does not start until the user clicks "Start".
+
+Expected Results:
+The timer is set for the next burst but does not start until the "Start" button is clicked.
